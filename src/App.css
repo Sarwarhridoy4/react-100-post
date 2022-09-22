@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+.dist{
+  padding: 10px;
+  background: rgb(133, 185, 11);
+  margin: 15px;
+  border-radius: 20px;
+  color: aliceblue;
+}
+.posts{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 10px;
+  background: rgb(35, 151, 197);
+  margin: 15px;
+  border-radius: 20px;
+  color: aliceblue;
+  
+}
+.post{
+  padding: 10px;
+  background: rgb(101, 211, 255);
+  margin: 15px;
+  border-radius: 20px;
+  color: aliceblue;
+}
